@@ -1,3 +1,5 @@
+## **David Emilio Vega Bonza, david.vegabonza@colorado.edu**
+### **CC 80215162, Bogotá. Colombia**
 
 ## **Unsupervised Machine Learning for Customer Churn Analysis in Telecom Companies**  
 
